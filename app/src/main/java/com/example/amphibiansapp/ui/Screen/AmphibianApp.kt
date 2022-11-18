@@ -56,7 +56,7 @@ fun AmphibianApp() {
 @Composable
 fun AmphibianTopBar() {
     TopAppBar(
-        title = { Text(text = "Amphibians") },
+        title = { Text(text = "Amphibians ") },
     )
 }
 
